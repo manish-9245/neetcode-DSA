@@ -19,4 +19,3 @@ class Solution(object):
                 dp.append(dp[i // 2])
         return dp
 # @lc code=end
-
